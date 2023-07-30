@@ -1,1 +1,4 @@
 # wordcloud
+
+mecabやneoloadで形態素解析した結果をwordcloudで可視化する
+辞書などで依存関係があるため、そのままでは動かない
